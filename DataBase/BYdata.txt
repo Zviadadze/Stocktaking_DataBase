@@ -1,0 +1,7 @@
+Object_code: 112034
+Object_class: Computer
+Name: Assus_X5000
+Price: 40000
+Department_number: 2
+Condition: A
+----------------------------

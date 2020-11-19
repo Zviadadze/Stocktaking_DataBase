@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.589,=D:\Рабочий стол\Курсовая работа\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,D:\Рабочий стол\Курсовая работа\Unit3.cpp=D:\Рабочий стол\Курсовая работа\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Рабочий стол\Курсовая работа\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,=C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,D:\Рабочий стол\Курсовая работа\Unit3.h=D:\Рабочий стол\Курсовая работа\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,D:\Рабочий стол\Курсовая работа\Unit2.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Рабочий стол\Курсовая работа\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,D:\Рабочий стол\Курсовая работа\Unit3.dfm=D:\Рабочий стол\Курсовая работа\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,=C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,=C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit2.cpp=D:\Рабочий стол\Курсовая работа\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.714,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Рабочий стол\Курсовая работа\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit2.h=D:\Рабочий стол\Курсовая работа\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.714,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Рабочий стол\Курсовая работа\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Рабочий стол\Курсовая работа\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.714,C:\Users\mzvid\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Рабочий стол\Курсовая работа\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,36 @@
+
+Object_code: 20302323
+Object_class: Computer
+Name: INTEL_PUTER2000
+Price: 50000
+Department_number: 5
+Condition: A
+----------------------------
+Object_code: 4040404
+Object_class: Printer
+Name: Lenovo_2000
+Price: 10000
+Department_number: 1
+Condition: B
+----------------------------
+Object_code: 3434343
+Object_class: Computer
+Name: INTEL_320
+Price: 20000
+Department_number: 5
+Condition: C
+----------------------------
+Object_code: 4040404
+Object_class: Printer
+Name: Lenovo_2000
+Price: 10000
+Department_number: 1
+Condition: B
+----------------------------
+Object_code: 20302323
+Object_class: Computer
+Name: INTEL_PUTER2000
+Price: 50000
+Department_number: 5
+Condition: A
+----------------------------
